@@ -1,0 +1,2 @@
+filestack_python==3.5.0
+Kivy==2.0.0
